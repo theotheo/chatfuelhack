@@ -1,0 +1,25 @@
+{
+  "name": "chatfuelhack",
+  "version": "1.0.0",
+  "description": "bot for chatfuelhack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theotheo/chatfuelhack.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Ildar Belyalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theotheo/chatfuelhack/issues"
+  },
+  "homepage": "https://github.com/theotheo/chatfuelhack#readme",
+  "dependencies": {
+    "botbuilder": "^1.0.1"
+  }
+}
